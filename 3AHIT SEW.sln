@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "230925-ShapesPolymorph", "230925-ShapesPolymorph\230925-ShapesPolymorph.csproj", "{3452A6AF-7EBF-4B9D-AB03-E4C1B59BCCD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3452A6AF-7EBF-4B9D-AB03-E4C1B59BCCD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3452A6AF-7EBF-4B9D-AB03-E4C1B59BCCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3452A6AF-7EBF-4B9D-AB03-E4C1B59BCCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3452A6AF-7EBF-4B9D-AB03-E4C1B59BCCD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0F8DE19-BDA0-4C28-BDF6-169B000B3095}
+	EndGlobalSection
+EndGlobal
