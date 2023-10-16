@@ -22,7 +22,9 @@ namespace _231009_shapesAbstract
         {
             base.ShapeInfo();
             Console.WriteLine("circle");
-            Console.WriteLine($"Radius: {A}");
+            Console.WriteLine($"Radius: {A} "); 
+            Console.WriteLine($"Area: {Area()}");
+            Console.WriteLine($"Circumference: {Circumference()}\n");
         }
     }
 }

@@ -44,7 +44,7 @@ namespace _231009_shapesAbstract
             Console.WriteLine($"Length: {Length}");
             Console.WriteLine($"Width: {Width}");
             Console.WriteLine($"Area: {Area()}");
-            Console.WriteLine($"Circumference: {Circumference()}");
+            Console.WriteLine($"Circumference: {Circumference()}\n");
         }
     }
 }

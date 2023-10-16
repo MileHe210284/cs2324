@@ -40,7 +40,7 @@ namespace _231009_shapesAbstract
             Console.WriteLine($"A: {A}");
             Console.WriteLine($"B: {B}");
             Console.WriteLine($"Area: {Area()}");
-            Console.WriteLine($"Circumference: {Circumference()}");
+            Console.WriteLine($"Circumference: {Circumference()}\n");
         }
 
     }
