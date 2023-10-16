@@ -11,18 +11,17 @@ namespace _231009_shapesAbstract
         // Konstruktor
         public Square(string color, double sideLength) : base(color, "Square", sideLength, sideLength)
         {
-
+           
         }
         public override void Draw()
         {
-            Console.WriteLine($"Drawing a {Color} Square with Length: {Length} and Width: {Width}");
+            Console.WriteLine($"Drawing a {Color} Square with Length: {Length}");
         }
         public override void ShapeInfo()
         {
             base.ShapeInfo();
             Console.WriteLine("Square");
             Console.WriteLine($"Length: {Length}");
-            Console.WriteLine($"Width: {Width}");
             Console.WriteLine($"Area: {Area()}");
             Console.WriteLine($"Circumference: {Circumference()}\n");
         }
