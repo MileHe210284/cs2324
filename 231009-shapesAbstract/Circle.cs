@@ -21,6 +21,7 @@ namespace _231009_shapesAbstract
         public override void ShapeInfo()
         {
             base.ShapeInfo();
+            Console.WriteLine("circle");
             Console.WriteLine($"Radius: {A}");
         }
     }

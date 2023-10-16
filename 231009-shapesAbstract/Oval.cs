@@ -36,6 +36,7 @@ namespace _231009_shapesAbstract
         public override void ShapeInfo()
         {
             base.ShapeInfo();
+            Console.WriteLine("oval");
             Console.WriteLine($"A: {A}");
             Console.WriteLine($"B: {B}");
             Console.WriteLine($"Area: {Area()}");

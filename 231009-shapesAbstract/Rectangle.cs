@@ -40,6 +40,7 @@ namespace _231009_shapesAbstract
         public override void ShapeInfo()
         {
             base.ShapeInfo();
+            Console.WriteLine("Rectangle");
             Console.WriteLine($"Length: {Length}");
             Console.WriteLine($"Width: {Width}");
             Console.WriteLine($"Area: {Area()}");
